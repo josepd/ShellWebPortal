@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.735
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShellWebPortal", "ShellWebPortal\ShellWebPortal.csproj", "{B99728A7-C304-4B5C-844F-6BD11BEF647C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B99728A7-C304-4B5C-844F-6BD11BEF647C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99728A7-C304-4B5C-844F-6BD11BEF647C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99728A7-C304-4B5C-844F-6BD11BEF647C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99728A7-C304-4B5C-844F-6BD11BEF647C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {857D44A1-4033-45BC-9CB4-B3BB67BF3F81}
+	EndGlobalSection
+EndGlobal
